@@ -2,7 +2,7 @@ pipeline {
     agent { label 'ubuntu' }
 
     environment {
-        GIT_URL    = 'https://github.com/Sushmaa123/DevOps-Assignment.git'
+        GIT_URL    = 'https://github.com/premkulal03/DevOps-Assignment.git'
         GIT_BRANCH = 'main'
     }
 
